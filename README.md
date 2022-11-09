@@ -8,6 +8,7 @@ some cool projects i think you should know about (not associated just advertisin
 
 [🟩Gitea](https://github.com/go-gitea/gitea), 
 [🤖Godot Engine](https://github.com/godotengine/godot), 
+[🔐KeePassXC](https://github.com/keepassxreboot/keepassxc),
 [🟨ViteJS](https://github.com/vitejs/vite), 
 [🌤️wttr.in](https://github.com/chubin/wttr.in), 
 [🗒️micro editor](https://github.com/zyedidia/micro), 
