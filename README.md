@@ -6,7 +6,7 @@ i mainly do webdev (🐘php, 🟨js, 🟦ts) and devops (🐧linux❤️, 📜ba
 
 some cool projects i think you should know about (not associated just advertising 😛): 
 
-[🟩Gitea](https://github.com/go-gitea/gitea), 
+[🟧Forgejo](https://forgejo.org/), 
 [🤖Godot Engine](https://github.com/godotengine/godot), 
 [🔐KeePassXC](https://github.com/keepassxreboot/keepassxc),
 [🟨ViteJS](https://github.com/vitejs/vite), 
